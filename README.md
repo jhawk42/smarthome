@@ -1,1 +1,1 @@
-# smarthome adventures
+# smarthome notes & adventures
