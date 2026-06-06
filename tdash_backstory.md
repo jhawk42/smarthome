@@ -1,4 +1,4 @@
-# Tdash Backstory
+# Tdash backstory
 
 For a number of years I had been looking for a detailed thread network dashboard and cli tools to help me better understand and improve my thread network: multiple TBRs, a couple dozen thread devices (both Apple Homekit over Thread and Matter over Thread). 
 
