@@ -4,13 +4,14 @@ For a number of years I had been looking for a detailed thread network dashboard
 
 I use these thread tools: OTBR ot-ctl cli, matterjs-server thread dashboard (great tool and nice direction of new features), Eve app (good thread device view) and the Open Thread Border Router (OTBR) console log and topology view.
 
-Links to related Thread Network tools: [Home Assistant Matter Server](https://github.com/matter-js/matterjs-server) has a great dashboard for Matter over Thread devices; [Eve App](https://www.evehome.com/en-us/eve-app) uses a powered Eve device (smartplug) in the thread network to enable gathering thread device information; [Thread Group - Android: Thread Network Diagnostics app](https://play.google.com/store/apps/details?id=com.threadgroup.otloom&hl=en_US); [Nordic Semiconductor - nRF Thread Topology Monitor](https://www.nordicsemi.com/Products/Development-tools/nRF-Thread-topology-monitor).
-
 I wanted to go the next level of detail to: filter by MAC (radio) and MLE (mesh) counters, Link Quality; decode all the thread related mDNS records; access to the thread device info in a local store to enable building diagnostics tools. 
 
 I built tdash dashboard and tools which has helped me better understand and improve my thread network: add more thread routers in the right areas. 
 
-I use tdash dashboard and tools in a thread environment with: 
+Links to related Thread Network tools: [Home Assistant Matter Server](https://github.com/matter-js/matterjs-server) has a great dashboard for Matter over Thread devices; [Eve App](https://www.evehome.com/en-us/eve-app) uses a powered Eve device (smartplug) in the thread network to enable gathering thread device information; [Thread Group - Android: Thread Network Diagnostics app](https://play.google.com/store/apps/details?id=com.threadgroup.otloom&hl=en_US); [Nordic Semiconductor - nRF Thread Topology Monitor](https://www.nordicsemi.com/Products/Development-tools/nRF-Thread-topology-monitor).
+
+
+## My thread environment
 
 - Thread Border Routers: Apple TVs & HomePod Minis; Openthread OTBR in a Docker container connected to a Home Assistant Connect ZBT-1 via usb; HA OTBR App running in HAOS connected to a Home Assistant Connect ZBT-2 via usb. 
 - Tdash dashboard and tools running inside a Docker container on Debian. Also test directly on the Debian host.
