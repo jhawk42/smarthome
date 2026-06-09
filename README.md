@@ -1,3 +1,10 @@
 # smarthome notes & adventures
 
-[thread docs](./doc/)
+
+[tdash docs](./tdash/)
+
+[thread docs](./thread/)
+
+[wifi docs](./wifi/)
+
+
