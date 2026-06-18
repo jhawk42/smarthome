@@ -5,6 +5,4 @@
 
 [thread docs](./thread/)
 
-[wifi docs](./wifi/)
-
 
