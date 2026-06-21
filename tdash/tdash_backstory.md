@@ -8,9 +8,9 @@ In addition to Matter over Thread, I wanted Apple Homekit (HAP) over thread supp
 
 I also wanted to drill into the next level of detail: filter by MAC (radio) and MLE (mesh) counters, Link Quality; decode all the thread related mDNS records; access to the thread device data in a local store to enable building diagnostics tools. 
 
-I built tdash dashboard and tools which has helped me better understand and improve my thread network: add more thread routers in the right areas. 
+I built tdash dashboard and tools which has helped me better understand and improve my thread network: add additional thread routers in the right areas;thread device firmware updates. 
 
-Links to related Thread Network tools: [Home Assistant Matter Server](https://github.com/matter-js/matterjs-server) has a great dashboard for Matter over Thread devices; [Eve App](https://www.evehome.com/en-us/eve-app) uses a powered Eve device (smartplug) in the thread network to enable gathering thread device information; [Thread Group - Android: Thread Network Diagnostics app](https://play.google.com/store/apps/details?id=com.threadgroup.otloom&hl=en_US); [Nordic Semiconductor - nRF Thread Topology Monitor](https://www.nordicsemi.com/Products/Development-tools/nRF-Thread-topology-monitor).
+Links to related Thread Network tools: [Home Assistant Matter Server](https://github.com/matter-js/matterjs-server) has a great dashboard for Matter over Thread devices; [Eve App](https://www.evehome.com/en-us/eve-app) uses a powered Eve device (smartplug) in the thread network to enable gathering thread device information; [Thread Group - Thread Tool app](https://threadgroup.org/Resources/Thread-Tools-App); [Nordic Semiconductor - nRF Thread Topology Monitor](https://www.nordicsemi.com/Products/Development-tools/nRF-Thread-topology-monitor).
 
 
 ## Thread Environment
