@@ -1,7 +1,7 @@
 # smarthome notes & adventures
 
 
-[hobat docs](./tdash/)
+[hobat docs](./hobat/)
 
 [thread docs](./thread/)
 
