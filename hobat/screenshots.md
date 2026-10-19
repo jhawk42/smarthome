@@ -2,6 +2,9 @@
 
 Click a thumbnail to open its full-size image.
 
+[View the rendered gallery on GitHub](https://github.com/jhawk42/smarthome/blob/main/hobat/screenshots.md)
+if you are reading the raw Markdown.
+
 ## Topology with selected device
 
 [![Topology with selected device screenshot](./images/hobat-topology-selected-device-thumbnail.png)](./images/hobat-topology-selected-device.png)
@@ -21,4 +24,3 @@ Click a thumbnail to open its full-size image.
 ## Multi-source evidence
 
 [![Multi-source evidence screenshot](./images/hobat-multi-source-evidence-thumbnail.png)](./images/hobat-multi-source-evidence.png)
-
