@@ -10,7 +10,7 @@ if you are reading the raw Markdown.
 
 Inspect a device in the context of its mesh connections.
 
-[![Topology with selected device screenshot](./images/hobat-topology-selected-device-2026-10-26-thumbnail.png)](./images/hobat-topology-selected-device-2026-10-26.png)
+[![Topology with selected device screenshot](./images/hobat-topology-selected-device-1600x900-optimized-2026-10-26-thumbnail.png)](./images/hobat-topology-selected-device-1600x900-optimized-2026-10-26.jpg)
 
 ## OTBR diagnostics table
 
