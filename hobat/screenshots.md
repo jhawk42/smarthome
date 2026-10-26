@@ -16,7 +16,7 @@ Inspect a device in the context of its mesh connections.
 
 Compare device evidence in the tabular diagnostics view.
 
-[![OTBR diagnostics table screenshot](./images/hobat-otbr-diagnostics-table-thumbnail.png)](./images/hobat-otbr-diagnostics-table.png)
+[![OTBR diagnostics table screenshot](./images/hobat-otbr-diagnostics-table-2026-10-26-optimized-thumbnail.png)](./images/hobat-otbr-diagnostics-table-2026-10-26-optimized.jpg)
 
 ## Health insights
 
